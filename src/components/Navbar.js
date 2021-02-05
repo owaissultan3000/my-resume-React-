@@ -22,7 +22,7 @@ class Navbar extends Component {
     render() {
         return (
             <nav className="glass">
-            <img src={pic} className="profilepic"></img>
+            <img src={pic} alt="picm" className="profilepic"></img>
             <h2>Owais Sultan</h2>
             <p>Full Stack Developer</p>
             <ul>
