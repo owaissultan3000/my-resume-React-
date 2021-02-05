@@ -8,7 +8,7 @@ Open Terminal
 
 Type the below commands
 
-$ cd Portfolio_Glass_ReactJS
+$ cd my-resume-React-
 
 $ npm install
 
