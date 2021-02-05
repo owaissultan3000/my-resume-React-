@@ -10,7 +10,7 @@ class Home extends Component {
         return (
             <div className="condiv home">
             <h1>Owais Sultan</h1>
-            <ReactTypingEffect className="typingeffect" text={['MERN Stack Developer','Python Programmer']} speed={100} eraseDelay={900}/>
+            <ReactTypingEffect className="typingeffect" text={['MERN Stack Developer','Python Programmer']} speed={100} eraseDelay={500}/>
             <div className="hr_line glass"><div className="hr_inner"></div></div>
             <Social />
             </div>
